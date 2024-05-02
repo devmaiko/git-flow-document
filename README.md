@@ -62,4 +62,3 @@ graph TD;
 ## Conclusion
 
 GitFlow provides a structured workflow that helps teams manage releases, hotfixes, and feature development effectively. By following the GitFlow branching model, teams can maintain a stable codebase and streamline their development process.
-```
